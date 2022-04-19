@@ -1,0 +1,34 @@
+{
+    "login": {
+      "login_button": "Login",
+      "swlang_button": "Bahasa",
+      "label_email": "Email",
+      "label_password": "Password",
+      "label_login_first": "Please login first",
+      "label_select_lang": "Select Language"
+    },
+    "main": {
+      "label_user_info": "User Information",
+      "label_user_name": "Username",
+      "label_fullname": "Fullname",
+      "label_user_email": "Email",
+      "label_user_balance": "Balance Information",
+      "label_saldo": "Balance",
+      "label_pengeluaran": "Expense",
+      "label_pemasukan": "Income",
+      "label_deposit": "Deposit",
+      "label_withdraw": "Withdraw",
+      "topup_button": "Process",
+      "withdraw_button": "Process",
+      "logout_button": "Logout",
+      "label_profile": "more..."
+    },
+    "profile": {
+      "groupbox_profile": "User Profile",
+      "label_first_name": "First Name",
+      "label_last_name": "Last Name",
+      "label_username": "Username",
+      "label_email": "Email",
+      "label_password": "Password"
+    }
+}

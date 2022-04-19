@@ -1,0 +1,34 @@
+﻿{
+    "login": {
+      "login_button": "Masuk",
+      "swlang_button": "English",
+      "label_email": "Email",
+      "label_password": "Kata Sandi",
+      "label_login_first": "Silahkan masuk terlebih dahulu",
+      "label_select_lang": "Pilih bahasa"
+    },
+    "main": {
+      "label_user_info": "Informasi Pengguna",
+      "label_user_name": "Username",
+      "label_fullname": "Nama Lengkap",
+      "label_user_email": "Email",
+      "label_user_balance": "Informasi Saldo",
+      "label_saldo": "Saldo",
+      "label_pengeluaran": "Pengeluaran",
+      "label_pemasukan": "Pemasukan",
+      "label_deposit": "Tambah Saldo",
+      "label_withdraw": "Penarikan Saldo",
+      "topup_button": "Proses",
+      "withdraw_button": "Proses",
+      "logout_button": "Keluar",
+      "label_profile": "selengkapnya..."
+    },
+    "profil": {
+      "groupbox_profile": "Profile Pengguna",
+      "label_first_name": "Nama Depan",
+      "label_last_name": "Nama Belakang",
+      "label_username": "Username",
+      "label_email": "Email",
+      "label_password": "Kata Sandi"
+    }
+} 
